@@ -1,0 +1,46 @@
+E:\Libreria2M3\Libreria\bin\Debug\Libreria.exe.config
+E:\Libreria2M3\Libreria\bin\Debug\Libreria.exe
+E:\Libreria2M3\Libreria\bin\Debug\Libreria.pdb
+E:\Libreria2M3\Libreria\bin\Debug\Newtonsoft.Json.dll
+E:\Libreria2M3\Libreria\bin\Debug\ViewModels.dll
+E:\Libreria2M3\Libreria\bin\Debug\ViewModels.pdb
+E:\Libreria2M3\Libreria\bin\Debug\Newtonsoft.Json.xml
+E:\Libreria2M3\Libreria\obj\Debug\Libreria.csproj.AssemblyReference.cache
+E:\Libreria2M3\Libreria\obj\Debug\Libreria.LibrosForm.resources
+E:\Libreria2M3\Libreria\obj\Debug\Libreria.Properties.Resources.resources
+E:\Libreria2M3\Libreria\obj\Debug\Libreria.csproj.GenerateResource.cache
+E:\Libreria2M3\Libreria\obj\Debug\Libreria.csproj.CoreCompileInputs.cache
+E:\Libreria2M3\Libreria\obj\Debug\Libreria.csproj.CopyComplete
+E:\Libreria2M3\Libreria\obj\Debug\Libreria.exe
+E:\Libreria2M3\Libreria\obj\Debug\Libreria.pdb
+E:\Programas Compartidos\Libreria2M3\Libreria\bin\Debug\Libreria.exe.config
+E:\Programas Compartidos\Libreria2M3\Libreria\bin\Debug\Libreria.exe
+E:\Programas Compartidos\Libreria2M3\Libreria\bin\Debug\Libreria.pdb
+E:\Programas Compartidos\Libreria2M3\Libreria\bin\Debug\Newtonsoft.Json.dll
+E:\Programas Compartidos\Libreria2M3\Libreria\bin\Debug\ViewModels.dll
+E:\Programas Compartidos\Libreria2M3\Libreria\bin\Debug\ViewModels.pdb
+E:\Programas Compartidos\Libreria2M3\Libreria\bin\Debug\Newtonsoft.Json.xml
+E:\Programas Compartidos\Libreria2M3\Libreria\obj\Debug\Libreria.csproj.AssemblyReference.cache
+E:\Programas Compartidos\Libreria2M3\Libreria\obj\Debug\Libreria.LibrosForm.resources
+E:\Programas Compartidos\Libreria2M3\Libreria\obj\Debug\Libreria.Properties.Resources.resources
+E:\Programas Compartidos\Libreria2M3\Libreria\obj\Debug\Libreria.csproj.GenerateResource.cache
+E:\Programas Compartidos\Libreria2M3\Libreria\obj\Debug\Libreria.csproj.CoreCompileInputs.cache
+E:\Programas Compartidos\Libreria2M3\Libreria\obj\Debug\Libreria.csproj.CopyComplete
+E:\Programas Compartidos\Libreria2M3\Libreria\obj\Debug\Libreria.exe
+E:\Programas Compartidos\Libreria2M3\Libreria\obj\Debug\Libreria.pdb
+C:\Users\carlo\OneDrive\Escritorio\Libreria2M3\Libreria\bin\Debug\Libreria.exe.config
+C:\Users\carlo\OneDrive\Escritorio\Libreria2M3\Libreria\bin\Debug\Libreria.exe
+C:\Users\carlo\OneDrive\Escritorio\Libreria2M3\Libreria\bin\Debug\Libreria.pdb
+C:\Users\carlo\OneDrive\Escritorio\Libreria2M3\Libreria\bin\Debug\Newtonsoft.Json.dll
+C:\Users\carlo\OneDrive\Escritorio\Libreria2M3\Libreria\bin\Debug\ViewModels.dll
+C:\Users\carlo\OneDrive\Escritorio\Libreria2M3\Libreria\bin\Debug\ViewModels.pdb
+C:\Users\carlo\OneDrive\Escritorio\Libreria2M3\Libreria\bin\Debug\Newtonsoft.Json.xml
+C:\Users\carlo\OneDrive\Escritorio\Libreria2M3\Libreria\obj\Debug\Libreria.csproj.AssemblyReference.cache
+C:\Users\carlo\OneDrive\Escritorio\Libreria2M3\Libreria\obj\Debug\Libreria.csproj.SuggestedBindingRedirects.cache
+C:\Users\carlo\OneDrive\Escritorio\Libreria2M3\Libreria\obj\Debug\Libreria.LibrosForm.resources
+C:\Users\carlo\OneDrive\Escritorio\Libreria2M3\Libreria\obj\Debug\Libreria.Properties.Resources.resources
+C:\Users\carlo\OneDrive\Escritorio\Libreria2M3\Libreria\obj\Debug\Libreria.csproj.GenerateResource.cache
+C:\Users\carlo\OneDrive\Escritorio\Libreria2M3\Libreria\obj\Debug\Libreria.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Escritorio\Libreria2M3\Libreria\obj\Debug\Libreria.csproj.CopyComplete
+C:\Users\carlo\OneDrive\Escritorio\Libreria2M3\Libreria\obj\Debug\Libreria.exe
+C:\Users\carlo\OneDrive\Escritorio\Libreria2M3\Libreria\obj\Debug\Libreria.pdb
